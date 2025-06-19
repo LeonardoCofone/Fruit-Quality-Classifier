@@ -50,7 +50,7 @@ Quick install:
 
 ```bash
 pip install -r requirements.txt
-
+```
 
 ## 4 · Project Structure and Usage
 **main.py**
