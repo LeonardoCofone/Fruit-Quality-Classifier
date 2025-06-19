@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2025 42RandomState
+Copyright (c) 2025 Leonardo Cofone
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -22,7 +22,7 @@ SOFTWARE.
 
 ---
 
-Made with ❤️ by 42RandomState
+Made with ❤️ by Leonardo Cofone
 
 Thank you for using our software! We hope it brings value and joy to your projects.
 If you find any issues or have suggestions, feel free to reach out.
