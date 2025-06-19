@@ -28,6 +28,7 @@ Unified_Dataset/
   └── *.jpg
 
 > **Note** The dataset is not uploaded on GitHub due to size constraints; it is available as `kaggle/input/fruitquality1/Unified_Dataset` or upon request.
+> **Watch my kaggle profile to watch better the dataset**
 
 ---
 
