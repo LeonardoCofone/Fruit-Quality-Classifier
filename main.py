@@ -154,7 +154,7 @@ class LoadingScreen(BoxLayout):
         self.add_widget(self.loading_image)
 
         self.label_bottom = Label(
-            text="Powered by 42RandomState",
+            text="Powered by Leonardo Cofone",
             font_size='20sp',
             color=(0, 0, 0, 1),
             size_hint=(1, 0.2),
@@ -166,7 +166,7 @@ class LoadingScreen(BoxLayout):
 
 class FruitQualityApp(App):
     def build(self):
-        self.title = "Food Quality - By 42RandomState"
+        self.title = "Food Quality - By Leonardo Cofone"
         self.root_layout = BoxLayout()
         self.loading_screen = LoadingScreen()
         self.root_layout.add_widget(self.loading_screen)
