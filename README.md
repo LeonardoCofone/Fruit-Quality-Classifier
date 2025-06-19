@@ -53,25 +53,25 @@ pip install -r requirements.txt
 ```
 
 ## 4 · Project Structure and Usage
-**main.py**
+**main.py**  
 Main script that launches a Graphical User Interface (GUI) built with Kivy.
 The GUI allows users to perform real-time classification of fruit and vegetable images using the trained TensorFlow Lite model (FruitQuality.tflite).
 
-**fruits-and-vegetables-quality.ipynb**
+**fruits-and-vegetables-quality.ipynb**  
 Jupyter notebook used for exploratory data analysis, model training, and evaluation.
 
-**FruitQuality.tflite**
+**FruitQuality.tflite**  
 Optimized TensorFlow Lite model for lightweight, fast inference.
 
-**label_encoder.pkl**
+**label_encoder.pkl**  
 Label encoder for mapping predicted class indices to human-readable class names.
 
-**thresholds.pkl**
+**thresholds.pkl**  
 Contains classification thresholds used to improve decision accuracy.
 
-**requirements.txt**
+**requirements.txt**  
 List of required Python packages and dependencies.
 
-**README.md and LICENSE.txt**
+**README.md and LICENSE.txt**  
 Project documentation and license information.
 
