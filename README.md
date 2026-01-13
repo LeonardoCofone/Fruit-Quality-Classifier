@@ -6,7 +6,7 @@
 ## 1 · Introduction
 
 This repository contains the complete code and documentation for an automatic classification system that determines the **fresh / rotten** status of 28 different types of fruits and vegetables.  
-The project was entirely developed by Leonardo Cofone: from data collection and cleaning to training a deep learning model and creating a ready-to-use inference script.
+The project was entirely developed by Leonardo Cofone: from data collection and cleaning to training a deep learning model and creating a ready-to-use inference script
 
 ---
 
